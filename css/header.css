@@ -1,0 +1,12 @@
+
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #0051ff;
+}
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  block-size: 80px;
+}
